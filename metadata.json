@@ -1,0 +1,5 @@
+{
+  "name": "SmartChat AI",
+  "description": "A powerful, intelligent, and professional AI assistant for writing, learning, coding, and creative work.",
+  "requestFramePermissions": ["microphone"]
+}
